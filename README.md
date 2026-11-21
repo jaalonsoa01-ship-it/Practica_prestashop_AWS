@@ -38,3 +38,5 @@ El resultado de este ultimo script es de
  Panel Back-Office:   https://joaquinpreshop.duckdns.org:8443/admin_tienda
  Verificación PHP:    https://joaquinpreshop.duckdns.org:8443/phppsinfo.php
 ```
+
+Si todo funciona, al acceder a estas paginas, veremos una pagina web de tiendas con el nombre y propiedades indicadas en sus scripts
