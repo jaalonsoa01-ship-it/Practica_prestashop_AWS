@@ -3,6 +3,7 @@
 La maquina virtual que usara VirtualBox con 2 GB de RAM, con Ubuntuserver y al menos 20 GB de disco, un solo adaptador NAT con reenvio de puertos:
 
 | prot  | p.anf | p.inv |
+| --- | --- | --- |
 | http  | 8080  | 80    |
 | https | 8443  | 443   |
 | ssh   | 2222  | 22    |
